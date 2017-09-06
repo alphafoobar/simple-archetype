@@ -11,8 +11,5 @@ This simple archetype builds a sample maven based project with support for:
  8. Travis 
  9. Codecov.io
  
-# Update the image links above to see Travis build status and codecov coverage report
-
-Replace `${username}` with your username and `${artifactId}` with the project name.
  
  
